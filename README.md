@@ -34,3 +34,6 @@
 - train_test_split from sklearn.model_selection
 - accuracy_score from sklearn.metrics
 - LogisticRegression from sklearn.linear_model
+
+
+![image](https://github.com/vilasrhegde/CreditCard_FraudDetection/assets/85540091/a6af316e-ab24-4107-8065-9c45b1955e50)
